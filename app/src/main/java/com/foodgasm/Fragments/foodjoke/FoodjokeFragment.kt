@@ -1,10 +1,12 @@
-package com.foodgasm
+package com.foodgasm.Fragments.foodjoke
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.foodgasm.R
+
 class FoodjokeFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
